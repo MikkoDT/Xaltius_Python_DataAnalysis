@@ -3,6 +3,7 @@
 
 ## Project Structure
 ### Flow Control
+(https://github.com/MikkoDT/Xaltius_Python_DataAnalysis/tree/main/FlowControl)
 - This folder contains examples and exercises related to Python’s control flow structures like conditionals (if-else), loops (for, while), and iteration techniques. It demonstrates how control structures are essential in decision-making and iterative operations within data analysis workflows.
 
 ## Data visualization
