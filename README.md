@@ -1,5 +1,5 @@
 # Xaltius Python Data Analysis
-This repository contains various Python projects and exercises related to data analysis. Each folder focuses on a specific concept or technique, providing examples, code snippets, and explanations. The goal is to provide a comprehensive overview of Python's data analysis capabilities, ranging from basic control structures to advanced libraries.
+***This repository contains various Python projects and exercises related to data analysis. Each folder focuses on a specific concept or technique, providing examples, code snippets, and explanations. The goal is to provide a comprehensive overview of Python's data analysis capabilities, ranging from basic control structures to advanced libraries.***
 
 Project Structure
 FlowControl
