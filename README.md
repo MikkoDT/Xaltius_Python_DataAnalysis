@@ -1,9 +1,9 @@
 # Xaltius Python Data Analysis
 ***This repository contains various Python projects and exercises related to data analysis. Each folder focuses on a specific concept or technique, providing examples, code snippets, and explanations. The goal is to provide a comprehensive overview of Python's data analysis capabilities, ranging from basic control structures to advanced libraries.***
 
-Project Structure
-FlowControl
-This folder contains examples and exercises related to Python’s control flow structures like conditionals (if-else), loops (for, while), and iteration techniques. It demonstrates how control structures are essential in decision-making and iterative operations within data analysis workflows.
+## Project Structure
+### FlowControl
+- This folder contains examples and exercises related to Python’s control flow structures like conditionals (if-else), loops (for, while), and iteration techniques. It demonstrates how control structures are essential in decision-making and iterative operations within data analysis workflows.
 
 Data_visualization
 In this folder, you’ll find examples of various data visualization techniques using libraries like matplotlib and seaborn. The focus is on creating insightful graphs and plots to represent data trends and patterns.
