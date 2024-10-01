@@ -31,10 +31,15 @@ This folder includes detailed explanations and examples of Python's built-in dat
 
 ## How to Use This Repository
 Clone the repository to your local machine:
-bash
-Copy code
+```
 git clone https://github.com/yourusername/Xaltius_Python_DataAnalysis.git
-Navigate through the folders and explore the example code. Each folder contains .py files demonstrating key concepts, with comments and explanations where necessary.
-Prerequisites
+```
+
+- Navigate through the folders and explore the example code.
+- Each folder contains .py files demonstrating key concepts, with comments and explanations where necessary.
+
+### Prerequisites
+
 Python 3.x
+
 Libraries such as pandas, matplotlib, seaborn, requests, and BeautifulSoup (install using pip)
