@@ -40,6 +40,13 @@ git clone https://github.com/yourusername/Xaltius_Python_DataAnalysis.git
 
 ### Prerequisites
 
-Python 3.x
+## Prerequisites
 
-Libraries such as pandas, matplotlib, seaborn, requests, and BeautifulSoup (install using pip)
+- [Python 3.x](https://www.python.org/downloads/)
+- Libraries such as:
+  - [pandas](https://pandas.pydata.org/getting_started.html)
+  - [matplotlib](https://matplotlib.org/stable/users/installing.html)
+  - [seaborn](https://seaborn.pydata.org/installing.html)
+  - [requests](https://docs.python-requests.org/en/latest/user/install/#install)
+  - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup) (install using `pip`)
+
